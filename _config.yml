@@ -104,6 +104,6 @@ theme: melody
 deploy:
   type: git
   repository: git@github.com:ChaoAriel/ChaoAriel.github.io
-  branch: main
+  branch: master
 
 
